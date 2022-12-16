@@ -1,7 +1,7 @@
 # Requirements-----
-#                  python3
-#                  selenium4
-#                  Pandas
+                 python3
+                  selenium4
+                  Pandas
 
 
 # Create Virtualenv 
@@ -10,7 +10,7 @@
 
 
 # install requirements.txt
-# cmd----> pip3 install -r requirements.txt
+ cmd----> pip3 install -r requirements.txt
 
 
 # Run Scraper.py
